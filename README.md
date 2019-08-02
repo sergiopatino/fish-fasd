@@ -26,7 +26,7 @@ You will need [fasd].
 With [fisherman]:
 
 ```fish
-$ fisher jomik/fish-fasd
+$ fisher add jomik/fish-fasd
 ```
 
 For more info, check out the complete [fasd documentation][fasd].
